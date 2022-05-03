@@ -1,0 +1,40 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background-color: #f8f8ff
+  ;
+
+}
+img{
+  display: block;
+  margin: 0;
+  width:50%;
+  float:left;
+  height:50%;
+}
+p{
+  float:left;
+  clear:both;
+}
+ul, li{
+  display:inline-block;
+  list-style-type: none;
+  color: #3d6413
+}
+li{
+  margin: 2%;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
