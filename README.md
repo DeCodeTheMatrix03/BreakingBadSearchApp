@@ -10,4 +10,3 @@ The app renders a photo, name, birthday and status of the character searched.
 
 Here is the live website! Try it for yourself : https://breakingbadcharacterapi.netlify.app
 
-<img src = ""
