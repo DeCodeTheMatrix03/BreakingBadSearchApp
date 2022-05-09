@@ -9,3 +9,5 @@ This project uses JavaScript to fetch data from The BreakingBad API.
 The app renders a photo, name, birthday and status of the character searched.
 
 Here is the live website! Try it for yourself : https://breakingbadcharacterapi.netlify.app
+
+<img src = ""
